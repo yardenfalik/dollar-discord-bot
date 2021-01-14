@@ -1,2 +1,2 @@
-"# dollar-discord-bot" 
+" dollar-discord-bot" 
 # dollar-discord-bot
