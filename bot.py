@@ -91,4 +91,4 @@ class MyClient(discord.Client):
                 await message.channel.send('Oops. It is actually {}.'.format(answer))
 
 
-client.run('Nzg2MTUzODM3MzI4OTkwMjA5.X9CQ0A.0VtIJ1oza0ktbM-P6Fl3ZVjsgXQ')
+client.run('token')
